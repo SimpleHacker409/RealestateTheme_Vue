@@ -17,7 +17,7 @@
                         <div class="absolute inset-0 bg-black opacity-10"></div>
                     </div>
 
-                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3 py-1 rounded-lg z-10 bg-red-500 text-sm font-medium text-white select-none">
+                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3 rounded-lg z-10 bg-red-500   text-sm font-normal text-white select-none">
                         15% Offer
                     </span>
                     <img class="rounded-3xl" src="https://i.pinimg.com/474x/88/34/18/883418b099f46eb5257a1b4d1f5174c3--millionaire-homes-nice-houses.jpg">
@@ -78,7 +78,7 @@
                         <div class="absolute inset-0 bg-black opacity-10"></div>
                     </div>
 
-                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3 py-1 rounded-lg z-10 bg-gray-200 text-sm font-medium text-codeacademy select-none">
+                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3   rounded-lg z-10 bg-gray-200   text-sm font-normal text-codeacademy select-none">
                         Available Now
                     </span>
                     <img class="rounded-3xl" src="https://www.epichomeideas.com/wp-content/uploads/2016/08/shutterstock_172482095.jpg">
@@ -139,7 +139,7 @@
                         <div class="absolute inset-0 bg-black opacity-10"></div>
                     </div>
 
-                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3 py-1 rounded-lg z-10 bg-gray-200 text-sm font-medium text-codeacademy select-none">
+                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3   rounded-lg z-10 bg-gray-200   text-sm font-normal text-codeacademy select-none">
                         Available Now
                     </span>
                     <img class="rounded-3xl" src="https://images.homify.com/images/a_0,c_fit,f_auto,q_auto,w_1108/v1481194737/p/photo/image/1730401/_98R4370.1/photos-by-i-homify.jpg">
@@ -200,7 +200,7 @@
                         <div class="absolute inset-0 bg-black opacity-10"></div>
                     </div>
 
-                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3 py-1 rounded-lg z-10 bg-gray-200 text-sm font-medium text-codeacademy select-none">
+                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3   rounded-lg z-10 bg-gray-200   text-sm font-normal text-codeacademy select-none">
                         Available Now
                     </span>
                     <img class="rounded-3xl" src="https://i.pinimg.com/736x/95/90/db/9590db8f036ab157ddeb0ed0162e9de0.jpg">
@@ -261,7 +261,7 @@
                         <div class="absolute inset-0 bg-black opacity-10"></div>
                     </div>
 
-                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3 py-1 rounded-lg z-10 bg-gray-200 text-sm font-medium text-codeacademy select-none">
+                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3   rounded-lg z-10 bg-gray-200   text-sm font-normal text-codeacademy select-none">
                         Available Now
                     </span>
                     <img class="rounded-3xl" src="https://qph.fs.quoracdn.net/main-qimg-7fb84921dd9e914d8abb2e000709e94b-c">
@@ -322,7 +322,7 @@
                         <div class="absolute inset-0 bg-black opacity-10"></div>
                     </div>
 
-                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3 py-1 rounded-lg z-10 bg-gray-200 text-sm font-medium text-codeacademy select-none">
+                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3   rounded-lg z-10 bg-gray-200   text-sm font-normal text-codeacademy select-none">
                         Available Now
                     </span>
                     <img class="rounded-3xl" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Fd4%2F4f%2Ffe%2Fd44ffe69180afff887e9438fe4560533--stone-houses-glass-houses.jpg&f=1&nofb=1">
@@ -383,7 +383,7 @@
                         <div class="absolute inset-0 bg-black opacity-10"></div>
                     </div>
 
-                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3 py-1 rounded-lg z-10 bg-gray-200 text-sm font-medium text-codeacademy select-none">
+                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3   rounded-lg z-10 bg-gray-200   text-sm font-normal text-codeacademy select-none">
                         Available Now
                     </span>
                     <img class="rounded-3xl" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F38%2F1c%2Fe4%2F381ce4c26abaffa6a0e40269518dd308.jpg&f=1&nofb=1">
@@ -444,7 +444,7 @@
                         <div class="absolute inset-0 bg-black opacity-10"></div>
                     </div>
 
-                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3 py-1 rounded-lg z-10 bg-gray-200 text-sm font-medium text-codeacademy select-none">
+                    <span class="absolute top-0 left-0 inline-flex mt-5 ml-5 px-3   rounded-lg z-10 bg-gray-200   text-sm font-normal text-codeacademy select-none">
                         Available Now
                     </span>
                     <img class="rounded-3xl" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.boredart.com%2Fwp-content%2Fuploads%2F2014%2F09%2FBeautiful-Home-and-Furniture-Ideas-6.jpg&f=1&nofb=1">
