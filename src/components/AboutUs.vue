@@ -16,10 +16,10 @@
                 <p class="max-w-md">The better impression it would ipsum dolor sit amet consectetur adipisicing elit. Molestias aut, repellat ipsum</p>
             </div>
             <div class="flex space-x-8 py-5">
-                <button class="bg-codeacademy hover:bg-blue-500 text-white font-bold py-2 px-4 rounded">
+                <button class="focus:outline-none hover:bg-codeacademy bg-codeacademy hover:shadow-xl transition-shadow duration-300 text-white font-bold py-2 px-4 rounded">
                     Learn More
                 </button>
-                <button class="bg-transparent hover:bg-codeacademy text-blue-700 font-semibold hover:text-white py-2 px-4 border border-codeacademy hover:border-transparent rounded">
+                <button class="bg-transparent focus:outline-none hover:bg-codeacademy hover:shadow-xl transition-shadow duration-300 text-blue-700 font-semibold hover:text-white py-2 px-4 border border-codeacademy hover:border-transparent rounded">
                     Contact Us
                 </button>
             </div>

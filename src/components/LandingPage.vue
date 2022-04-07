@@ -23,7 +23,7 @@
             <div class="text-white sm:text-black">
                 <span class="font-bold text-6xl pt-4 tracking-wide leading-relaxed">Easy to Find Your Next Best</span>
                 <h1 class="font-bold text-6xl tracking-wide leading-relaxed">Pergect Place</h1>
-                <p class="max-w-md pt-5 tracking-wide leading-relaxed">An Agency, in broad terms, is any relationship between two parties in which one the agent reprecent the other the priocinple in day-to-day transactions.</p>
+                <p class="max-w-md pt-5 tracking-wide leading-relaxed ">An Agency, in broad terms, is any relationship between two parties in which one the agent reprecent the other the priocinple in day-to-day transactions.</p>
                 <div class="flex pt-5 space-x-6">
                     <button class="flex justify-center items-center h-12 px-6 w-auto focus:outline-none hover:bg-codeacademy bg-codeacademy text-white hover:shadow-xl transition-shadow duration-300">Learn More</button>
                     <button class="hover:animate-none animate-pulse bg-blue-300 hover:bg-blue-400 text-gray-800 font-bold py-2 px-4 rounded-full items-center border-4 border-blue-200">
@@ -40,7 +40,7 @@
                 <div class="flex justify-between py-5 px-6 rounded-md shadow-xl bg-white w-full xl:w-10/12">
                     <div class="w-1/4 h-3  search-option">
                         <p class="text-lg font-medium text-gray-500 py-2">Location</p>
-                        <select class="selectedCam" @change="dosomething" >
+                        <select class="selectedCam focus:outline-none" @change="dosomething" >
                             <option value="" disabled selected>Milan, Italy</option>
                             <option value="1">Vennice, Italy</option>
                             <option value="2">Rome, Italy</option>
@@ -48,7 +48,7 @@
                     </div>
                     <div class="w-full md:w-1/4 h-3 search-option">
                          <p class="text-lg font-medium text-gray-500 py-2">Home Type</p>
-                        <select class="selectedCam" @change="dosomething" >
+                        <select class="selectedCam focus:outline-none" @change="dosomething" >
                             <option value="" disabled selected>Duplex House</option>
                             <option value="1">Single Room</option>
                             <option value="2">Full Appartment</option>
@@ -56,7 +56,7 @@
                     </div>
                     <div class="w-1/4 h-3">
                          <p class="text-lg font-medium text-gray-500 py-2">Range</p>
-                        <select class="selectedCam" @change="dosomething" >
+                        <select class="selectedCam focus:outline-none" @change="dosomething" >
                             <option value="" disabled selected>$10,000-$60,000</option>
                             <option value="1">$2,000-$10,000</option>
                             <option value="2">$60,000-$100,000</option>

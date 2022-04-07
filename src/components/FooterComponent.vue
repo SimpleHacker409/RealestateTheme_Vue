@@ -84,7 +84,7 @@
                 </div>
             </div>
             <div class="py-3 px-4 bg-codeacademy flex justify-center">
-                <p class="text-md text-gray-300 ">© 2022 <a href="https://flowbite.com">Flowbite™</a>. All Rights Reserved.
+                <p class="text-md text-gray-300 ">© 2022. All Rights Reserved.
                 </p>
 
             </div>
